@@ -1,0 +1,14 @@
+D:\Учеба\Проект 5 курс\bin\Debug\net8.0\проект 5 курс.exe
+D:\Учеба\Проект 5 курс\bin\Debug\net8.0\проект 5 курс.deps.json
+D:\Учеба\Проект 5 курс\bin\Debug\net8.0\проект 5 курс.runtimeconfig.json
+D:\Учеба\Проект 5 курс\bin\Debug\net8.0\проект 5 курс.dll
+D:\Учеба\Проект 5 курс\bin\Debug\net8.0\проект 5 курс.pdb
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.AssemblyInfoInputs.cache
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.AssemblyInfo.cs
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.csproj.CoreCompileInputs.cache
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.dll
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\refint\проект 5 курс.dll
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.pdb
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\проект 5 курс.genruntimeconfig.cache
+D:\Учеба\Проект 5 курс\obj\Debug\net8.0\ref\проект 5 курс.dll
