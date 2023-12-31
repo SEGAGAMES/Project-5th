@@ -17,3 +17,6 @@
 /проект 5 курс/obj/project.nuget.cache
 /проект 5 курс/obj/проект 5 курс.csproj.nuget.dgspec.json
 /проект 5 курс/obj/Debug/net8.0/проект 5 курс.assets.cache
+*.wsuo
+/проект 5 курс/.vs/проект 5 курс/DesignTimeBuild/.dtbcache.v2
+/проект 5 курс/.vs/проект 5 курс/v17/.suo
